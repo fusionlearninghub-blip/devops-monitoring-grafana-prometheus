@@ -1,3 +1,11 @@
+# 🚀 DevOps Monitoring System
+
+![Docker](https://img.shields.io/badge/Docker-Enabled-blue?logo=docker)
+![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange?logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-Dashboards-red?logo=grafana)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-yellow?logo=linux)
+
+
 🚀 DevOps Monitoring System (Grafana + Prometheus + Node Exporter)
 📌 Overview
 
